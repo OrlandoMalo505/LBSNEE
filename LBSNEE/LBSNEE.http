@@ -1,0 +1,6 @@
+@LBSNEE_HostAddress = http://localhost:5027
+
+GET {{LBSNEE_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
